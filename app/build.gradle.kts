@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.hyunjung.jetpackcomposemasterclass"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.hyunjung.jetpackcomposemasterclass"
